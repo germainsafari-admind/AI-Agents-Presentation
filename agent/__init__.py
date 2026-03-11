@@ -1,0 +1,1 @@
+"""Scoro ↔ Slack agent package."""
